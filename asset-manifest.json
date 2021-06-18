@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13b70ce7.chunk.css",
+    "main.js": "/static/js/main.4818fc0b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.be466e28.js",
+    "static/js/2.7258970d.chunk.js": "/static/js/2.7258970d.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.7258970d.chunk.js.LICENSE.txt": "/static/js/2.7258970d.chunk.js.LICENSE.txt",
+    "static/media/antSwap.d9b04e2c.png": "/static/media/antSwap.d9b04e2c.png",
+    "static/media/copyButton.c9fc5d9c.png": "/static/media/copyButton.c9fc5d9c.png",
+    "static/media/debris.24beb120.png": "/static/media/debris.24beb120.png",
+    "static/media/getButton.2219d27e.png": "/static/media/getButton.2219d27e.png",
+    "static/media/nest.a4532c87.png": "/static/media/nest.a4532c87.png",
+    "static/media/share.a9314285.png": "/static/media/share.a9314285.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be466e28.js",
+    "static/js/2.7258970d.chunk.js",
+    "static/css/main.13b70ce7.chunk.css",
+    "static/js/main.4818fc0b.chunk.js"
+  ]
+}
