@@ -1,1 +1,1 @@
-# antminer-interface
+# Antminer Interface
