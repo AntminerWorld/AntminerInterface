@@ -1,1 +1,0 @@
-# Antminer Interface
